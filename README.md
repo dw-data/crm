@@ -42,13 +42,13 @@ The first part of the analysis was to map the deposit area which are currently m
 
 There are three colored layers that indicated the importance of the deposit. All thirty raw material markets were analyzed individually and their mining areas mapped. In case the market share of the mining country were above 66 percent of one of the thirty markets they were colored in dark blue. Medium blue stands for 33 percent and above and light blue for below 33 percent.
 
-_Known methodological problems: The classification as high, medium and low importance is somehow random since there is no scientific figure or score that states when a player in a market starts to control or dominate the whole system and therefore has a "high" or "low" importance. Furthermore, the quality of the data about mining locations is difficult to estimate. The known mines differ from source to source and were never complete. Therefore, two sources had to been matched._
+_Known methodological issues: The classification as high, medium and low importance is somehow random since there is no scientific figure or score that states when a player in a market starts to control or dominate the whole system and therefore has a "high" or "low" importance. Furthermore, the quality of the data about mining locations is difficult to estimate. The known mines differ from source to source and were never complete. Therefore, two sources had to been matched._
 ### Analyzing the importance of market shares
 An overall analysis calculated the market shares of all top ten mining nations in all thirty CRM markets each and summed them up. In case there were more than ten mining nations all minor miners were ignored. 
 
 ![](graphics/treemap_crm.png)
 
-_Known methodological problems: There are multiple partly contradictory data sets about the market shares of global CRM production._ 
+_Known methodological issues: There are multiple partly contradictory data sets about the market shares of global CRM production._ 
 ### Trade risks
 To visualize the trade risks two aspects needed to be taken into account. One, the market distortion since trading partners are more dependent if only one or just a small number of players control big market shares. Two, the reliability of the local government, the rule of law and other stabilizing social factors which are crucial for a prosperous trade relation. 
 
@@ -64,32 +64,32 @@ The HHI score can be normalized to make it independent of the amount of _n_. Whe
 
 The second factor, the reliability of the local government and economic stability, was easily numbered with the [Good governance index (WGI)](https://info.worldbank.org/governance/wgi/). Therefore, the WGI of each mining nation was weighted due to their market share and summed to get a WGI of the whole market for each CRM. The WGI score ranges from 0 to 100 with 100 being the best. 
 
-_Known methodological problems: It could be disputed if the WGI is the best source to quantify the reliability of a state system to guarantee a stable trade environment. Furthermore, the text states that there are ten CRMs that are of high risk because they show a high market distortion and a low WGI. The methodological thresholds were 0.5 for HHI and 50 for WGI. These thresholds could be numbered differently which would result in another outcome in which CRMs' trade risks are high._
+_Known methodological issues: It could be disputed if the WGI is the best source to quantify the reliability of a state system to guarantee a stable trade environment. Furthermore, the text states that there are ten CRMs that are of high risk because they show a high market distortion and a low WGI. The methodological thresholds were 0.5 for HHI and 50 for WGI. These thresholds could be numbered differently which would result in another outcome in which CRMs' trade risks are high._
 ### Usage
 The data source for the usage sectors is an [EU Commission's study](https://rmis.jrc.ec.europa.eu/uploads/CRMs_for_Strategic_Technologies_and_Sectors_in_the_EU_2020.pdf). 
 
 ![](graphics/typochart_crm_2.png)
 
-_Known methodological problems: none._
+_Known methodological issues: none._
 ### Future demand
 The data originates from the same source. Three scenarios are described in the study. The high-demand scenario is visualized in the chart while the low-demand scenario is mentioned in the article right next to it. 
 
-![](graphicsTypochart_crm_1.png)
+![](graphics/typochart_crm_1.png)
 
-_Known methodological problems: Future demand depends heavily on technological development. Even small changes in the industry may result in large shifts to other resources or in an increase or a decrease of individual CRMs._
+_Known methodological issues: Future demand depends heavily on technological development. Even small changes in the industry may result in large shifts to other resources or in an increase or a decrease of individual CRMs._
 ### Recycling
 The data for the recycling rates comes from an [EU Commission's study](http://publications.europa.eu/resource/cellar/d1be1b43-e18f-11e8-b690-01aa75ed71a1.0001.01/DOC_1). 
 
 ![](graphics/columnchart_crm.png)
 
-_Known methodological problems: none._
+_Known methodological issues: none._
 ### Toxicity
 To visualize toxicity two variables were compared: The toxicity of the mining process of each CRM and the capability of a nation to deal with the damage that may result from the process. Two nations that both mine a resource but differ in their efforts to eliminate the consequences have to be treated differently. 
 The data for the resource toxicity come from a study of the [Fraunhofer Society](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/2_Presse_und_Service/Publikationen/Wirtschaft/2014_Studie_Analyse_kritischer_Rohstoffe_fuer_die_Landesstrategie_BW.pdf) while the numbers for the nations' environmental efforts are based on the [Environmental Performance Index (EPI)](https://epi.yale.edu/epi-results/2020/component/epi). The toxicity is grouped categorically from low to high. The EPI is, as usual, quantified in a range from 0 till 100 with 100 being the best. 
 
 ![](graphics/scatterplot_category_crm.png)
 
-_Known methodological problems: To categorize the toxicity of a raw material is difficult and can easily be disputed. Whether the toxicity for the human body, the CO2 emissions or the mining in the natural habitat of endangered species should be part of this index and how they should be weighted is a subjective decision. Besides, the study of the Fraunhofer Society doesn't deliver a categorization for all CRMs._
+_Known methodological issues: To categorize the toxicity of a raw material is difficult and can easily be disputed. Whether the toxicity for the human body, the CO2 emissions or the mining in the natural habitat of endangered species should be part of this index and how they should be weighted is a subjective decision. Besides, the study of the Fraunhofer Society doesn't deliver a categorization for all CRMs._
 
 
 
