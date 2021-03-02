@@ -85,7 +85,7 @@ The data for the recycling rates comes from an [EU Commission's study](http://pu
 _Known methodological issues: none._
 ### Toxicity
 To visualize toxicity two variables were compared: The toxicity of the mining process of each CRM and the capability of a nation to deal with the damage that may result from the process. Two nations that both mine a resource but differ in their efforts to eliminate the consequences have to be treated differently. 
-The data for the resource toxicity come from a study of the [Fraunhofer Society](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/2_Presse_und_Service/Publikationen/Wirtschaft/2014_Studie_Analyse_kritischer_Rohstoffe_fuer_die_Landesstrategie_BW.pdf) while the numbers for the nations' environmental efforts are based on the [Environmental Performance Index (EPI)](https://epi.yale.edu/epi-results/2020/component/epi). The toxicity is grouped categorically from low to high. The EPI is, as usual, quantified in a range from 0 till 100 with 100 being the best. 
+The data for the resource toxicity comes from a study of the German [Umweltbundesamt](https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2020-06-17_texte_79-2020_oekoressii_abschlussbericht.pdf) while the numbers for the nations' environmental efforts are based on the [Environmental performance index (EPI)](https://epi.yale.edu/epi-results/2020/component/epi). The toxicity is grouped categorically from low to high. The EPI is, as usual, quantified in a range from 0 till 100 with 100 being the best. 
 
 ![](graphics/scatterplot_category_crm.png)
 
