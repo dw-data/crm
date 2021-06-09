@@ -5,9 +5,9 @@ _Idea, research, data analysis, data visualization and writing:_  [Michel Penke]
 
 
 **Read the full articles on DW.com:**
-- [Deposits and markets](https://www.dw.com/en/xxx)
-- [Demand and substitution](https://www.dw.com/en/xxx)
-- [Environment damage and human rights violation](https://www.dw.com/en/xxx)
+- [Deposits and markets](https://www.dw.com/en/how-chinas-mines-rule-the-market-of-critical-raw-materials/a-57148375)
+- [Demand and substitution](https://www.dw.com/en/rare-rocks-reuse-and-substitutes-of-critical-resources/a-57148472)
+- [Environment damage and human rights violation](https://www.dw.com/en/toxic-and-radioactive-the-damage-from-mining-rare-elements/a-57148185)
 
 The so-called critical raw materials are thirty resources identified by the European Union that are irreplaceable for its future industry. 
 
